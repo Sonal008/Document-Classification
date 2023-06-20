@@ -28,6 +28,5 @@ streamlit-tags==1.2.8
 matplotlib==3.6.2
 Pillow==9.3.0
 pipreqs==0.4.11
-sklearn==0.0.post5
 typer==0.7.0
 constants==0.6.0
