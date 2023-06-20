@@ -9,6 +9,8 @@ hydralit_components
 nltk
 openpyxl
 pandas-visual-analysis
+pandas_profiling
+streamlit_pandas_profiling
 pickle4
 Pillow
 spacy
