@@ -1,0 +1,16 @@
+pandas
+nltk
+scikit-learn
+docx
+plotly
+docx2txt
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
+hydralit_components
+nltk
+openpyxl
+pandas-visual-analysis
+pickle4
+Pillow
+spacy
+streamlit
+streamlit_tags
